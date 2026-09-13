@@ -1,0 +1,50 @@
+[
+  {
+    "token_id": "001",
+    "collection_address": "mock:aliens-on-rh",
+    "name": "Verdant Orbit #001",
+    "image": "res://assets/avatars/verdant_orbit.png",
+    "attributes": [
+      {"trait_type": "Origin", "value": "Verdant Moon"},
+      {"trait_type": "Class", "value": "Navigator"},
+      {"trait_type": "Signal", "value": "Cyan"}
+    ],
+    "owner": "mock:player-one"
+  },
+  {
+    "token_id": "002",
+    "collection_address": "mock:aliens-on-rh",
+    "name": "Nebula Rift #002",
+    "image": "res://assets/avatars/nebula_rift.png",
+    "attributes": [
+      {"trait_type": "Origin", "value": "Nebula Rift"},
+      {"trait_type": "Class", "value": "Cipher"},
+      {"trait_type": "Signal", "value": "Violet"}
+    ],
+    "owner": "mock:player-two"
+  },
+  {
+    "token_id": "003",
+    "collection_address": "mock:aliens-on-rh",
+    "name": "Solar Echo #003",
+    "image": "res://assets/avatars/solar_echo.png",
+    "attributes": [
+      {"trait_type": "Origin", "value": "Solar Shelf"},
+      {"trait_type": "Class", "value": "Scout"},
+      {"trait_type": "Signal", "value": "Gold"}
+    ],
+    "owner": "mock:player-one"
+  },
+  {
+    "token_id": "004",
+    "collection_address": "mock:aliens-on-rh",
+    "name": "Tide Vector #004",
+    "image": "res://assets/avatars/tide_vector.png",
+    "attributes": [
+      {"trait_type": "Origin", "value": "Tide Vector"},
+      {"trait_type": "Class", "value": "Waveform"},
+      {"trait_type": "Signal", "value": "Aqua"}
+    ],
+    "owner": "mock:player-two"
+  }
+]
